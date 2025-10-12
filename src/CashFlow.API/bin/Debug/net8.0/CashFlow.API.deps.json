@@ -86,14 +86,6 @@
           }
         }
       },
-      "CashFlow.Exception/1.0.0": {
-        "runtime": {
-          "CashFlow.Exception.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "CashFlow.Infrastructure/1.0.0": {
         "dependencies": {
           "CashFlow.Domain": "1.0.0"
@@ -152,11 +144,6 @@
       "sha512": ""
     },
     "CashFlow.Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CashFlow.Exception/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

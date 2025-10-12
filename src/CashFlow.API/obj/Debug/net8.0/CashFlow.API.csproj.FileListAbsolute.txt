@@ -43,3 +43,4 @@ C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\obj\Debug\
 C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.genruntimeconfig.cache
 C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\ref\CashFlow.API.dll
 C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.sourcelink.json
