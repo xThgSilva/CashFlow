@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CashFlow.Exception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+376c42011bfc09123167ff29620e778195d90499")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf8888c67c5543782cf9336a22e4b4366a1f2bf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CashFlow.Exception")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CashFlow.Exception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

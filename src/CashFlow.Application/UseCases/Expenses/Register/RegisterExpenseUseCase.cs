@@ -1,5 +1,4 @@
-﻿using CashFlow.Communication.Enums;
-using CashFlow.Communication.Requests;
+﻿using CashFlow.Communication.Requests;
 using CashFlow.Communication.Responses;
 using CashFlow.Exception.ExceptionsBase;
 
@@ -11,7 +10,7 @@ public class RegisterExpenseUseCase
     {
         Validate(request);
 
-        return new ResponseRegisterExpenseJson();
+        return new ResponseRegisterExpenseJson { Title = request.Title};
     }
 
     private void Validate(RequestRegisterExpenseJson request)
