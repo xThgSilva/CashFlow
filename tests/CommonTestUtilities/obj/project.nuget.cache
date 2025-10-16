@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k9ZmXEL1xsQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\campo\\.nuget\\packages\\bogus\\35.6.4\\bogus.35.6.4.nupkg.sha512"
+  ],
+  "logs": []
+}
