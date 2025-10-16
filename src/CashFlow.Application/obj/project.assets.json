@@ -75,8 +75,8 @@
     },
     "CashFlow.Exception/1.0.0": {
       "type": "project",
-      "path": "../../CashFlow.Exception/CashFlow.Exception.csproj",
-      "msbuildProject": "../../CashFlow.Exception/CashFlow.Exception.csproj"
+      "path": "../CashFlow.Exception/CashFlow.Exception.csproj",
+      "msbuildProject": "../CashFlow.Exception/CashFlow.Exception.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -119,14 +119,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-              "projectPath": "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\CashFlow.Exception\\CashFlow.Exception.csproj"
-            },
             "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
               "projectPath": "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
             },
             "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
               "projectPath": "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+            },
+            "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+              "projectPath": "C:\\Users\\campo\\OneDrive\\Documentos\\Curso-C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
             }
           }
         }
