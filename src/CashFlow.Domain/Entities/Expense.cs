@@ -1,4 +1,6 @@
-﻿namespace CashFlow.Domain.Entities;
+﻿using CashFlow.Domain.Enums;
+
+namespace CashFlow.Domain.Entities;
 
 public class Expense
 {

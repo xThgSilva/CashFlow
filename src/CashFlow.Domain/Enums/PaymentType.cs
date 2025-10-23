@@ -1,4 +1,4 @@
-﻿namespace CashFlow.Domain;
+﻿namespace CashFlow.Domain.Enums;
 
 public enum PaymentType
 {

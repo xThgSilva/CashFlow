@@ -48,3 +48,8 @@ C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\
 C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
 C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
 C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\campo\OneDrive\Documentos\Curso-C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
