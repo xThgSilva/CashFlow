@@ -2,7 +2,7 @@
 
 public class CashFlowException : SystemException
 {
-    public CashFlowException(string? message) : base(message)
+    protected CashFlowException(string? message) : base(message)
     {
     }
 }
