@@ -16,12 +16,14 @@ public static class DependencyInjectionExtension
         DbContext(services, configuration);
     }
 
+    // Configuração para os repositórios
     private static void AddRepositories(IServiceCollection services)
     {
         services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped<IExpensesRepository, ExpensesRepository>();
     }
 
+    // Configuração do banco de dados
     private static void DbContext(IServiceCollection services, IConfiguration configuration)
     {
         var connectionString = configuration.GetConnectionString("Connection");
